@@ -7,4 +7,4 @@ feature1.1.1
 test1.1
 
 PR Rules Learn
-无审查？
+强制PR提交，但无需审核
